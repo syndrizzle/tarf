@@ -44,7 +44,7 @@ export default function Home() {
         {/* Header */}
         <header className="flex flex-col items-center text-center gap-y-6">
           <div className="space-y-4">
-            <h1 className="text-6xl sm:text-7xl md:text-8xl font-[family-name:var(--font-outfit)] font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
+            <h1 className="text-6xl sm:text-7xl md:text-8xl font-[family-name:var(--font-outfit)] font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent pb-2">
               Tarf
             </h1>
             <div className="space-y-2">
